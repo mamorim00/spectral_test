@@ -6,7 +6,7 @@
     Last Date Modified: 02/02/22
     
  """
-
+# this is the spectral test code
 from math import floor, sqrt
 import operator
 
@@ -156,3 +156,6 @@ def main():
 main()
 
 
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
